@@ -1,0 +1,25 @@
+{
+  "api": [
+    {
+      "id": "59dde0de06024380d2fe4f86",
+      "age": "20",
+      "name": "sumit",
+      "gender": "female",
+      "email": "billielamb@zedalis.com"
+    },
+    {
+      "id": "59dde0de47b61d96286c4f18",
+      "age": 31,
+      "name": "Marguerite Hunter",
+      "gender": "female",
+      "email": "phillip@gmail.com"
+    },
+    {
+      "id": "JdK8qVW",
+      "age": "20",
+      "name": "Sumit Dey",
+      "email": "sumitdey0007@gmail.com",
+      "gender": "female"
+    }
+  ]
+}
